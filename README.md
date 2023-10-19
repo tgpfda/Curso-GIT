@@ -49,3 +49,23 @@ Definición de ramas (branches). Trabajo simultáneo con ramas. Organización de
 Bibliografía
 PowerPoint Clase 3 – Organización de proyectos Libro Git (Pro Git) oficial - capítulo desde 3.1 a 3.7:
 https://git-scm.com/book/es/v2/Ramificaciones-en-Git-%C2%BFQu%C3%A9-es-una-rama%3F Pro Git, el libro oficial de Git - Capítulo 3. Trabajando con ramas en Git - https://uniwebsidad.com/libros/pro-git
+
+## Herramientas web para aprender ramas en Git
+
+### Learn Git Branching
+
+Ofrece un entorno interactivo para aprender Git a base de ejercicios ordenados según su nivel de dificultad. Escoge el nivel de dificultad y mira si eres capaz de resolver el escenario que se te plantea. Siempre con la opción de ver gráficamente el resultado de cada comando y como va evolucionando el repositorio ficticio con él. Y si lo prefieres también puedes saltarte los ejercicios y usar directamente el entorno para ir jugando tú sólo, igual que con las herramientas anteriores.
+
+Pagina Web: https://learngitbranching.js.org/?locale=es_AR
+
+### Git Gud
+
+Git Gud es un entorno web minimalista donde puedes escribir comandos y ver como a partir de ellos va evolucionando un repositorio Git inicialmente vacío. Muy fácil de usar y aún más de entender Git con ella.
+
+Pagina Web: https://nic-hartley.github.io/git-gud/
+
+### Git School
+
+Otro entorno de aprendizaje para Git es Git School. Básicamente lo mismo que la anterior, aunque con pequeñas variaciones en la forma de visualizar el repositorio.
+
+Pagina Web: https://git-school.github.io/visualizing-git/
